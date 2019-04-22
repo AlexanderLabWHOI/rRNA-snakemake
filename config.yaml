@@ -1,0 +1,3 @@
+mag: '../data/mags/'
+euk: '../data/Euk-likely.txt'
+bac: '../data/Bact-likely.txt'
